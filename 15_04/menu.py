@@ -1,0 +1,10 @@
+while True:
+    print("Escolha um número para ser executado")
+    print("1.	Imprimir os números de 1 a 10 usando um loop.")
+    print("2.	Imprimir os números pares de 0 a 20 usando um loop")
+    print("3.	Imprimir a soma dos números de 1 a 100 usando um loop.")
+    print("4.	Imprimir os números de 1 a 10 em ordem reversa usando um loop.")
+    print("5.	Imprimir os números ímpares de 1 a 20 usando um loop.")
+    print("6.	Imprimir os números ímpares da lista [2, 5, 8, 11, 14]")
+    print("7.	Imprimir os números de 1 a 100 que são divisíveis por 3 usando um loop.")
+    print("8.	Faça um cadastro que grave nomes em uma lista (min. 10) e após isso imprima cada nome junto com sua posição na lista")

@@ -11,4 +11,4 @@ elif operacao == ("div"):
 elif operacao == ("mult"):
       print(f"{num1} x {num2}= {num1*num2}")
 else: 
-     print("soma incorreta")
+     print("operação incorreta")

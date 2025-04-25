@@ -1,4 +1,4 @@
-import os#importação do lib sistema operacional para ver se arquivo existe 
+import os #importação do lib sistema operacional para ver se arquivo existe 
 
 
 caminho_arquivo="../arquivos/senhas.txt" #..volta e verifica se o arquivo escolhido existe

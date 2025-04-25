@@ -1,1 +1,4 @@
-maria: 200
+maria:22
+maria:55
+regina:22
+regina:22

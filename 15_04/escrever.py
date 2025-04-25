@@ -21,7 +21,7 @@ while True:
 print("Gravando informações: ")
                               #não apaga as demais senhas 
      #abrir  #diretorio+nome  #append(acrecentar)
-with open("arquivos/senhas.txt", "+a") as arquivo: #arquivo é uma variável de contexto, não importa muito
+with open("arquivos/senhas.txt", "a+") as arquivo: #arquivo é uma variável de contexto, não importa muito
     for indice, usuario in enumerate(usuarios): #percorre a lista de usuarios 
         arquivo.write(usuario + ":" + senhas[indice]+"\n") #escreve o usuario
 

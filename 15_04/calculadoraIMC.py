@@ -11,3 +11,4 @@ print(f"O seu imc é: {imc:.2f}")
 # clear limpar tudo 
 # python nome_diretorio/nome_arquivo.py
 # ctrl + c interrompe a execução do codigo 
+#ls lista arquivos e diretórios 

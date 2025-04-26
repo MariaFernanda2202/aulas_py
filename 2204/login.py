@@ -50,3 +50,15 @@ while True:
         else:
             print("Usuário logado")
     
+
+
+
+#     estoque de mercado 
+# -> gravação vai funcionar como bd 
+# cadastro de carma: nome da marca
+# cad produtos: nome, preço, marca(pega o nome da marca), data de valiade,qtd estoque 
+# visualização dos produtos
+# compra: escolhe o produto e qtd 
+# quando comprar subtrair do estoque existente
+# tenho 10, comprou 3, aparece 7 
+

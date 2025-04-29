@@ -19,4 +19,8 @@ def par_ou_impar(numero : int): #essa função se chama procedural
 
 
 
-
+def cad_lista(qtd_list:int):
+    lista=[]
+    for _ in range(qtd_list):
+        lista.append(input("Digite a informação a ser cadastrada: "))
+    return lista

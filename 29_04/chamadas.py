@@ -8,3 +8,13 @@ print(lista_familia)
 
 lista_jogo=funcoes.cad_lista(2)
 print(lista_jogo)
+
+print(funcoes.par_ou_impar_retorno(3))
+
+#OU
+
+resultado=funcoes.par_ou_impar_retorno(5)
+if resultado:
+    print("Numero é par")
+else:
+    print("Não é par")

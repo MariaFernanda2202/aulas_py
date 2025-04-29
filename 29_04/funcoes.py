@@ -24,3 +24,7 @@ def cad_lista(qtd_list:int):
     for _ in range(qtd_list):
         lista.append(input("Digite a informação a ser cadastrada: "))
     return lista
+
+
+def par_ou_impar_retorno(numero : int): #essa função se chama procedural
+    return numero%2==0

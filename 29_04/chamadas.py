@@ -3,18 +3,21 @@
 
 import funcoes
 
-lista_familia=funcoes.cad_lista(3)
-print(lista_familia)
+# lista_familia=funcoes.cad_lista(3)
+# print(lista_familia)
 
-lista_jogo=funcoes.cad_lista(2)
-print(lista_jogo)
+# lista_jogo=funcoes.cad_lista(2)
+# print(lista_jogo)
 
-print(funcoes.par_ou_impar_retorno(3))
+# print(funcoes.par_ou_impar_retorno(3))
 
-#OU
+# #OU
 
-resultado=funcoes.par_ou_impar_retorno(5)
-if resultado:
-    print("Numero é par")
-else:
-    print("Não é par")
+# resultado=funcoes.par_ou_impar_retorno(5)
+# if resultado:
+#     print("Numero é par")
+# else:
+#     print("Não é par")
+
+
+funcoes.calculadora_imc(int(input("Quantos imcs você vai adiconar: ")))

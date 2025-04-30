@@ -13,10 +13,7 @@ while True:
     senhas.append(getpass("Digite sua senha: "))
     opcao=int(input("Digite 1 para continuiar e 0 para sair. "))
     
-    if opcao == 0:
-        print("Sistema encerrado")
-        break
-
+    if opcao == 0
 
 print("Gravando informações: ")
                               #não apaga as demais senhas 

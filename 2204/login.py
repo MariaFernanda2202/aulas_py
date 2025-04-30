@@ -55,7 +55,7 @@ while True:
 
 #     estoque de mercado 
 # -> gravação vai funcionar como bd 
-# cadastro de carma: nome da marca
+# cadastro de marca: nome da marca
 # cad produtos: nome, preço, marca(pega o nome da marca), data de valiade,qtd estoque 
 # visualização dos produtos
 # compra: escolhe o produto e qtd 

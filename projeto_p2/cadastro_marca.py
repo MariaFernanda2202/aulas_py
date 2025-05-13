@@ -12,6 +12,7 @@ while True:
         produto.append(input("Qual o produto: "))
      
     if marcas==0:
+        
         print("Sistema encerrado")
         break
 

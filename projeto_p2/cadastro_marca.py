@@ -39,6 +39,7 @@ with open("banco_de_dados/marcas.txt", "a+") as arquivo:
 
 
     # for marca in range(0, qtd_marca):
+    
     # marcas.append(input("Qual marca gostaria de adicionar: "))
 
     

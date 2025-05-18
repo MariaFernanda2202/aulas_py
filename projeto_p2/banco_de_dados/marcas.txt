@@ -1,7 +1,4 @@
-
-coca:coca
-refri1:refri1
-refri2:refri2
-camiseta amarela:camiseta amarela
-tenis:tenis
-camisa preta:camisa preta
+test:prod 1
+teste 2:p1
+teste 2:p2
+teste 2:p3

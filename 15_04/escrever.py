@@ -23,4 +23,4 @@ with open("arquivos/senhas.txt", "a+") as arquivo: #arquivo é uma variável de 
     for indice, usuario in enumerate(usuarios): #percorre a lista de usuarios 
         arquivo.write(usuario + ":" + senhas[indice]+"\n") #escreve o usuario
 
-print("Arquivos gravados")
+        print("Arquivos gravados")

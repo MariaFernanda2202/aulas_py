@@ -61,4 +61,4 @@ while True:
 # compra: escolhe o produto e qtd 
 # quando comprar subtrair do estoque existente
 # tenho 10, comprou 3, aparece 7 
-
+ 

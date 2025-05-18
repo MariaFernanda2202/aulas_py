@@ -1,0 +1,7 @@
+
+coca:coca
+refri1:refri1
+refri2:refri2
+camiseta amarela:camiseta amarela
+tenis:tenis
+camisa preta:camisa preta

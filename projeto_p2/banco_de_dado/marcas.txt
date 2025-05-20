@@ -1,0 +1,2 @@
+teste1: prod1 - R$ 2.00: Quantidade em estoque: 5
+teste2: prod1 - R$ 5.00: Quantidade em estoque: 6

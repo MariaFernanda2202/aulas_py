@@ -1,5 +1,0 @@
-test1: prod1 - R$ 4.00: Quantidade em estoque: 5
-test1: prod2 - R$ 5.00: Quantidade em estoque: 8
-teste2: prod 21 - R$ 5.00: Quantidade em estoque: 7
-teste2: prod22 - R$ 6.00: Quantidade em estoque: 8
-teste3: prod31 - R$ 5.00: Quantidade em estoque: 6

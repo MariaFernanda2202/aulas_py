@@ -1,2 +1,6 @@
 teste1: prod1 - R$ 2.00: Quantidade em estoque: 5
 teste2: prod1 - R$ 5.00: Quantidade em estoque: 6
+coca: lata - R$ 50.00: Quantidade em estoque: 5
+bk: big bk - R$ 23.90: Quantidade em estoque: 5
+bk: bk2 - R$ 12.00: Quantidade em estoque: 5
+bk: bk3 - R$ 8.00: Quantidade em estoque: 10
